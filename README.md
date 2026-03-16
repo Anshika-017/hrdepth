@@ -1,4 +1,4 @@
-# hrdepth
+# HRDEPTH
 # NTIRE 2026 - HR Depth from Images of Specular 
 # and Transparent Surfaces - Track 1: Stereo
 
